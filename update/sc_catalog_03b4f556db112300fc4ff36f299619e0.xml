@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>red</background_color>
+        <description>provides services under phani enterprises</description>
+        <desktop_continue_shopping>testing</desktop_continue_shopping>
+        <desktop_home_page>helping</desktop_home_page>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>true</enable_wish_list>
+        <manager display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</manager>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-24 06:12:16</sys_created_on>
+        <sys_id>03b4f556db112300fc4ff36f299619e0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Phani services</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_catalog_03b4f556db112300fc4ff36f299619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-24 06:16:49</sys_updated_on>
+        <title>Phani services</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=03b4f556db112300fc4ff36f299619e0"/>
+</record_update>
